@@ -1,3 +1,3 @@
 # Anjali-demo
 This's My First Git Repository <br>
-Author - Anjali Rana
+Author - Anjali Rana (Repo)
